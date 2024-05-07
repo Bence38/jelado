@@ -20,4 +20,4 @@ for sor in f:
     
 
 sorszam = int(input("Adjon meg egy sorszámot: "))
-print (f"{lista[sorszam-1].x}x - {lista[sorszam-1].y}y")
+print (f"x={lista[sorszam-1].x}  y={lista[sorszam-1].y}")
